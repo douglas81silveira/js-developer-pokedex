@@ -4,4 +4,4 @@ Fork do projeto JS Developer Pokedex do bootcamp "Potência Tech Angular Develop
 
 ## Atualizações
 
--Foi adicionado ao projeto original uma modal box com alguns detalhes do pokemón
+-Foi adicionado ao projeto original uma modal box com alguns detalhes do pokémon
