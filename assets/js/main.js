@@ -108,6 +108,7 @@ window.onclick = function (event) {
   }
 };
 
+// abrir abas dos detalhes
 function openPage(pageName, elmnt) {
   var i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
